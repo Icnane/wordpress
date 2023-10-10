@@ -1,0 +1,9 @@
+1-Identifiants de l'admin
+username:ahmed12@
+email:ahmed.haidara.7628@gmail.com
+password:Wordpress@56215121
+
+2-Identifiants de l'éditeur
+username:editeur2
+email:editeur@gmail.com
+password:Editeur@
